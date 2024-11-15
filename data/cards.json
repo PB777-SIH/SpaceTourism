@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/astronaut.png",
+        "name": "astronaut"
+    },
+    {
+        "image": "../assets/earthPlanet.png",
+        "name": "earthPlanet"
+    },
+    {
+        "image": "../assets/hero.png",
+        "name": "hero"
+    },
+    {
+        "image": "../assets/light-moon.png",
+        "name": "light-moon"
+    },
+    {
+        "image": "../assets/logo.png",
+        "name": "logo"
+    },
+    {
+        "image": "../assets/mars.png",
+        "name": "mars"
+    },
+    {
+        "image": "../assets/mercury.png",
+        "name": "mercury"
+    },
+    {
+        "image": "../assets/Spaceship.png",
+        "name": "Spaceship"
+    },
+    {
+        "image": "../assets/uranus.png",
+        "name": "uranus"
+    }
+]
